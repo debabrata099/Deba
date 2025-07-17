@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is demo1 text in master
+=======
+This file is demo1 text 
+
+>>>>>>> demo
